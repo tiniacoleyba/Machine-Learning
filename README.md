@@ -1,2 +1,2 @@
 # Machine-Learning
-Some ML and Deep learning projects
+Some ML and Deep learning projects.
