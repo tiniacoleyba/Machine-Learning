@@ -1,1 +1,5 @@
 hello
+git push --set-upstream origin branchtopushname: command to push a new local branch to a remote repo and set the tracking between local and remote repositories
+git checkout -b serverfix origin/serverfix: Make own local serverfix branch based on remote origin/serverfix branch -> base new local branch on remote branch
+Tracking branches are local branches that have  direct relationship to a remote branch (upstream branch)
+git checkout --track origin/serverfix: make a new branch based on upstream branch serverfix from remote origin and make a tracking branch
