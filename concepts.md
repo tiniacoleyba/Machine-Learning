@@ -88,7 +88,14 @@ evolutionary algorithms, surrogate model, Finite Element Method, Ordinary Differ
 Partial Differential Equation (PDE),  within-group variance (pooled), between-group variance (mean differences), inference, application, Online Analytical Processing (OLAP), combinatorial optimization,
 structured data (tabular, CSV, TSVS, parquet...), semi-structured data (JSON, documents...),
 unstructured data (image, video, audio), Online Transactional Processing (OLTP), domain authority,
-backlinks, anchor text, hyperlink, 
+backlinks, anchor text, hyperlink, Poisson probability distribution, order statistics, minimum, maximum,
+assumptions, Euclidean distance, Manhattan distance, Cosine similarity, probability theory, cycle,
+Chebyshev's inequality, finite population, infinite population, uncertainty, sampling fraction, sequence,
+sampling with replacement, sampling without replacement, autocorrelation, upper bound, lower bound,
+sampling cost, chi-squared statistic, chi-squared distribution, combination, permutation, repetition, loop,
+evidence, outliers, hypothesis testing, linear relationship, nonlinear relationship, categorial variable,
+ARIMA, moving average, autoregression, decomposition, 
+
 
 
 
