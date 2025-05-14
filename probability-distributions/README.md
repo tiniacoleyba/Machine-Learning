@@ -14,6 +14,8 @@ An unexhaustive list of important and common probability distributions:
 - Pareto.
 - Erlang.
 - Weibull.
+- t-student
+- Chi-squared
 
 ## Discrete
 - Bernoulli.
