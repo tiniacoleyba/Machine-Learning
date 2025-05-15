@@ -16,6 +16,7 @@ An unexhaustive list of important and common probability distributions:
 - Weibull.
 - t-student
 - Chi-squared
+- [Cauchy or Cauchy-Lorentz distribution](https://en.wikipedia.org/wiki/Cauchy_distribution)
 
 ## Discrete
 - Bernoulli.
