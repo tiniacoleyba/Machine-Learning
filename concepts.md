@@ -143,4 +143,6 @@ Sum of Squares (SS), Bayes Factor (BF), Jeffrey's scale, Mean Absolute Deviation
 quantile function (inverse cumulative distribution function ICDF), Cauchy distribution,
 standard normal distribution, percent point function (ICDF), conjugate priors
 uninformative priors, categorical distribution, beta distribution, skewness,
-multinomial distribution, probability distribution support,
+multinomial distribution, probability distribution support, grid algorithms,
+joint probability mass function, curse of dimensionality,
+linearity of expectation,
